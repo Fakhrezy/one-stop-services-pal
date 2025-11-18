@@ -1,0 +1,24 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient untuk P -->
+    <linearGradient id="pGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1565C0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Gradient untuk J -->
+    <linearGradient id="jGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00BCD4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0097A7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Letter P (stylized, thick and modern) -->
+  <path d="M 8 12 L 8 68 L 18 68 L 18 45 L 32 45 C 42 45 48 39 48 29 C 48 19 42 12 32 12 Z M 18 22 L 32 22 C 36 22 38 25 38 29 C 38 33 36 35 32 35 L 18 35 Z" fill="url(#pGradient)"/>
+  
+  <!-- Letter J (stylized, flowing design) -->
+  <path d="M 72 12 L 72 42 C 72 58 62 68 46 68 C 38 68 32 64 28 58 L 35 52 C 37 56 41 58 46 58 C 56 58 62 52 62 42 L 62 12 Z" fill="url(#jGradient)"/>
+  
+  <!-- Connecting decorative element -->
+  <path d="M 40 25 Q 52 20 58 25" stroke="url(#jGradient)" stroke-width="2" fill="none" opacity="0.6"/>
+</svg>
