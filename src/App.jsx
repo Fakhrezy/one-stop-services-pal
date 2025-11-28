@@ -9,7 +9,7 @@ function App() {
 			icon: "/writing.png",
 			iconType: "image",
 			color: "bg-gradient-to-br from-blue-400 to-blue-600",
-			url: "http://192.168.20.144:8000/login",
+			url: "http://192.168.20.225:8001/login"
 		},
 		{
 			id: 2,
@@ -18,8 +18,8 @@ function App() {
 			icon: "/book.png",
 			iconType: "image",
 			color: "bg-gradient-to-br from-blue-400 to-blue-600",
-			url: "http://192.168.20.144:8001/login",
-		},
+			url: "http://192.168.20.225:8002/login"
+		}
 		// {
 		// 	id: 3,
 		// 	title: "SISTEM INFORMASI",
