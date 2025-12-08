@@ -19,7 +19,7 @@ function App() {
 			iconType: "image",
 			color: "bg-gradient-to-br from-blue-400 to-blue-600",
 			url: "http://192.168.100.38:8002/login"
-		}
+		},
 		// {
 		// 	id: 3,
 		// 	title: "SISTEM INFORMASI",
